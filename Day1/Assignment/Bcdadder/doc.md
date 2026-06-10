@@ -1,1 +1,1 @@
-
+1. Introduction to the D Flip-FlopA D (Data) Flip-Flop is a fundamental sequential logic circuit used to store 1 bit of data. The output $Q$ captures the value of the D input at a specific edge of the clock signal (usually the rising/positive edge) and holds that value until the next clock edge.
