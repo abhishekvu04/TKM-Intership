@@ -47,4 +47,4 @@ It uses a **Ripple Carry Adder** + correction logic.
 - Final output is valid BCD
 
 ## 🖥️ Output Waveform
-![Simulation Waveform](images/waveform.png)
+![Simulation Waveform]<img width="1290" height="630" alt="image" src="https://github.com/user-attachments/assets/d0e97b35-2635-4f30-8e41-68b018589574" />
