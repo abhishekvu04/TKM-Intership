@@ -56,6 +56,8 @@ The design has been validated against the following verification matrix:
 ### 📊 Waveform Analysis
 * **Ripple Effect:** The carry bit initiates at the LSB position (`fa0`) and ripples sequentially up to the MSB stage (`fa3`).
 * **Propagation Delay:** In real hardware simulation, the stable final output at `cout` is bound by the cumulative gate delay of all internal stages.
+* <img width="1281" height="563" alt="image" src="https://github.com/user-attachments/assets/8809eb7f-e1f1-401a-a7ad-9526c6a5ad75" />
+
 
 ---
 
