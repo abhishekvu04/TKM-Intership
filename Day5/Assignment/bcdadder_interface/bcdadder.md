@@ -1,5 +1,5 @@
 <img width="1288" height="232" alt="image" src="https://github.com/user-attachments/assets/1d8bf00a-ff4a-49fe-8fbb-caa5a42ca6cc" />
-# 4-Bit BCD Adder with SystemVerilog Verification
+##  4-Bit BCD Adder with SystemVerilog Verification
 
 
 This repository contains the design and verification of a **4-Bit Binary Coded Decimal (BCD) Adder**. The hardware is implemented in Verilog, and its correctness is verified using a modern SystemVerilog testbench architecture. 
@@ -49,16 +49,7 @@ The SystemVerilog testbench evaluates the design across multiple edge cases to e
 
 ---
 
-## 🚀 How to Run on EDA Playground
 
-1. Copy the design files (`bcd_adder.v`) and testbench files (`tb_bcd_adder.sv`) from this repository.
-2. Go to [EDA Playground](https://www.edaplayground.com/).
-3. Paste the respective code into the **Design** and **Testbench** windows.
-4. Set the **Tools & Simulators** options:
-   * **Simulator:** Select a SystemVerilog-compatible tool (e.g., *Aldec Riviera-PRO* or *Synopsys VCS*).
-   * **Open EPWave after run:** Check this box to view the simulation waveforms.
-5. Click **Run** to execute the testbench and verify the results.
-  * *Expected Output:* $Sum = 9$, $cout = 1$ (representing 19)
   * *Behavior:* The system is pushed to its absolute structural limit and correctly handles the maximum possible BCD input.
 
 ---
